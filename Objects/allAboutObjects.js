@@ -1,3 +1,21 @@
+//? This File will tell you all about Objects in JavaScript + I will keep updating this files as required
+//? Each New 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //todo objects are --> container for other data types, passed by reference, link to a prototype
 
 //! Creating Objects with Object Literals syntax
